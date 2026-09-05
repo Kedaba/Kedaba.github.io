@@ -2,8 +2,8 @@
 # here, i post about things i'm working on, as well as random stuff
 
 ## DIRECTORIES:
-[MOTD](kedaba.github.io/motd)
+[MOTD](https://kedaba.github.io/motd)
 
-[BetaYes](kedaba.github.io/betayes)
+[BetaYes](https://kedaba.github.io/betayes)
 
-[Random posts](kedaba.github.io/random)
+[Random posts](https://kedaba.github.io/random)
