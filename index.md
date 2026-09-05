@@ -3,5 +3,7 @@
 
 ## DIRECTORIES:
 [MOTD](keitguy.github.io/motd)
+
 [BetaYes](keitguy.github.io/betayes)
+
 [Random posts](keitguy.github.io/random)
