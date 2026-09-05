@@ -1,3 +1,6 @@
+---
+title: MOTD
+---
 # MOTD:
 ## [Back](https://kedaba.github.io/)
 
