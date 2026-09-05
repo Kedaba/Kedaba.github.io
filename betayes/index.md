@@ -1,3 +1,6 @@
+---
+title: Betayes
+---
 # Betayes
 ## here you will find all of my betayes stuff! [Back](https://kedaba.github.io/)
 
