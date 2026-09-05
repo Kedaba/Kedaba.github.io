@@ -1,1 +1,7 @@
-hello world, testing subpages, to test go here: keitguy.github.io/testing-subfolders
+---
+layout: default
+title: Extended bio :3
+---
+
+# Your actual Markdown header starts here
+hello, testing formatting now
