@@ -1,3 +1,6 @@
+---
+title: Random posts
+---
 # Random posts
 ## [Back](https://kedaba.github.io/)
 
