@@ -11,5 +11,3 @@ title: My info page!
 [Betayes](https://kedaba.github.io/betayes)
 
 [Random posts](https://kedaba.github.io/random)
-
-[secret](/secret)
