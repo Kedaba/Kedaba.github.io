@@ -4,6 +4,6 @@
 ## DIRECTORIES:
 [MOTD](https://kedaba.github.io/motd)
 
-[BetaYes](https://kedaba.github.io/betayes)
+[Betayes](https://kedaba.github.io/betayes)
 
 [Random posts](https://kedaba.github.io/random)
